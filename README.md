@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"># Hi there, I'm Bogdan! 👋</h1>
 
-<!--
-**geikobogdan/geikobogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+<img   src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 
-Here are some ideas to get you started:
+<img  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img  src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+ <img  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+
+ <img  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+ <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=geikobogdan&theme=vue&show_icons=true"  />
+
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geikobogdan&layout=compact"  />
+
+
+  
